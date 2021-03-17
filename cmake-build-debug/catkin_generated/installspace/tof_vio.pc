@@ -1,8 +1,0 @@
-prefix=/usr/local
-
-Name: tof_vio
-Description: Description of tof_vio
-Version: 0.1.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: message_runtime sensor_msgs cv_bridge roscpp std_msgs image_transport
