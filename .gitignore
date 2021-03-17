@@ -3,6 +3,9 @@
 build/
 devel/
 .vscode/
+cmake-build-debug/
+.idea/
+bag/
 *.save
 *.bag
 evaluate/result
